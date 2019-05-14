@@ -52,8 +52,7 @@ The config file should represent an object with two keys: `dashboard_args` and `
             "dashboard_id": 2,
             "width": 2048,
             "height": 1536
-        },
-        ...
+        }
     ]
 }
 ```
@@ -70,8 +69,7 @@ The config file should represent an object with two keys: `dashboard_args` and `
         },
         {
             "dashboard_id": 2
-        },
-        ...
+        }
     ],
     "shared_args": {
 	"width": 2048,
