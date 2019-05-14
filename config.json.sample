@@ -1,0 +1,11 @@
+{
+    "dashboard_args": [
+        {"dashboard_id": 1},
+        {"dashboard_id": 2, "dashboard_style": "single_column"},
+	{"dashboard_id": 3, "dashboard_filters": "foo=bar&baz=qux"}
+    ],
+    "shared_args": {
+        "width": 2048,
+        "height": 1536
+    }
+}
