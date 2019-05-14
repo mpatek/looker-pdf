@@ -27,6 +27,7 @@ Options:
   --base-url TEXT       [required]
   --client-id TEXT      [required]
   --client-secret TEXT  [required]
+  --debug               Show logging output.
   --help                Show this message and exit.
 ```
 
